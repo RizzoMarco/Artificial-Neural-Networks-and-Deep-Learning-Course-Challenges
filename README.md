@@ -1,2 +1,11 @@
 # Artificial-Neural-Networks-and-Deep-Learning-Course-Challenges
-Image Classification, Time Series Classification
+This repository contains the two challenges of the course of Artificial Neural Networks and Deep Learning.
+
+In particular, the subfolders are related to two problems:
+* Image Classification
+* Time Series Classification
+
+## Authors
+- [Leonardo Gori](https://github.com/LeoGori)
+- [Lorenc Leci]()
+- [Marco Rizzo](https://github.com/RizzoMarco)

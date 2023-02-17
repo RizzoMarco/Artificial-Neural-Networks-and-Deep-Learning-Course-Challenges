@@ -7,5 +7,5 @@ In this homework it is required to classify species of plants (like the ones in 
 
 ## Authors
 - [Leonardo Gori](https://github.com/LeoGori)
-- [Lorenc Leci]()
+- [Lorenc Leci](https://github.com/LeciLorenc)
 - [Marco Rizzo](https://github.com/RizzoMarco)

@@ -11,7 +11,7 @@ This folder is composed by (in descending order of importance):
 
 ## Authors
 - [Leonardo Gori](https://github.com/LeoGori)
-- [Lorenc Leci]()
+- [Lorenc Leci](https://github.com/LeciLorenc)
 - [Marco Rizzo](https://github.com/RizzoMarco)
 
 

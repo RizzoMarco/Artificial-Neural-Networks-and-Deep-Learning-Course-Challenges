@@ -1,4 +1,4 @@
-# Artificial-Neural-Networks-and-Deep-Learning-Course-Challenges
+# Artificial Neural Networks and Deep Learning Course Challenges
 This repository contains the two challenges of the course of Artificial Neural Networks and Deep Learning.
 
 In particular, the subfolders are related to two problems:
